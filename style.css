@@ -8,8 +8,10 @@ body{
 }
 
 header{
+    align-items: center;
     background-color: rgb(11, 121, 11);
     display: flex;
+    
 
 }
 section{

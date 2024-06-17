@@ -2,9 +2,12 @@
 
 }
 body{
-    background-color: greenyellow;
+   background-color: greenyellow;
 }
+
 header{
-    
+    background-color: aqua;
+    display: flex;
+
 }
 

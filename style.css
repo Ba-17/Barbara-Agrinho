@@ -47,9 +47,3 @@ border-radius: 10px;
 .lado{
     text-align: end;
 }
-background-color: white;
-border-radius: 20px;
-padding: 12px;
-display: grid;
-margin: 20px;
-grid-template-columns: 50% 50%

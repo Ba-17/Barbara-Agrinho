@@ -38,7 +38,6 @@ height: 70%;
 border-radius: 10px;
 }
 
-.link{
-    text-decoration: none;
-    color: black;
+.lado{
+    text-align: end;
 }

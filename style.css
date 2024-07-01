@@ -4,7 +4,8 @@ padding: 0%;
 box-sizing: border-box;
 }
 body{
-   background-color: rgb(74, 184, 11);
+   background-image: url(campo.jpg);
+   background-size: 100%;
 }
 
 header{

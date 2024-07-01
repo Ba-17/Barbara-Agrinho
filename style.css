@@ -16,11 +16,7 @@ header{
     border-radius: 55px 55px 0 0;
 }
 section{
-    display: flex;
-    color: rgb(0, 0, 0);
-    padding: 20px;
-    align-items: center;
-    justify-content: space-around;
+    
 }
 
 

@@ -10,18 +10,16 @@ body{
 
 header{
     align-items: center;
-    background-color: rgb(11, 121, 11);
+
     display: flex;
     justify-content: space-around;
 
 
 }
 section{
-    
     display: flex;
     color: rgb(0, 0, 0);
     padding: 20px;
-    background-color: white;
     align-items: center;
     justify-content: space-around;
 }

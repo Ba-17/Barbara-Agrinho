@@ -47,14 +47,4 @@ border-radius: 10px;
 .lado{
     text-align: end;
 }
-.soja.html{
-    *{
-        margin: 0%;
-        padding: 0%;
-        box-sizing: border-box;
-        }
-        body{
-           background-image: url(campo.jpg);
-           background-size: 100% 100%;
-        }
-}
+

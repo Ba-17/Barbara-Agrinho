@@ -54,3 +54,7 @@
         text-decoration: none;
         color: black;
     }
+
+    .video{
+        border-radius: 20px;
+    }

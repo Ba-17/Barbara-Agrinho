@@ -32,7 +32,9 @@
         padding: 12px;
         margin: 20px;
         width: 25%;
-        
+        position: absolute;
+        top: 20px; 
+        right: 20px; 
 
     }
 

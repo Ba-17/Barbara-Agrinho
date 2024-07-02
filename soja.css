@@ -24,18 +24,23 @@
         border-radius: 0 0 55px 55px;
         display: grid;
         padding-top: 27px; 
+        div{
+        
+            background-color: white;
+            border-radius: 20px;
+            padding: 12px;
+            margin: 20px;
+            width: 25%;
+            
+        }
 
     }
 
+   section{
     div{
-        
-        background-color: white;
-        border-radius: 20px;
-        padding: 12px;
-        margin: 20px;
-        width: 25%;
-        
+        width: 700px;
     }
+   }
 
 
     
@@ -44,9 +49,7 @@
         color: black;
     }
     
-    div{
-        width: 700px;
-        }
+
         
         img{
             width: 100%;
@@ -55,7 +58,4 @@
             }
 
     
-    div{
-        width: 700px;
-        
-    }
+

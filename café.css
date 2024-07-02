@@ -44,3 +44,9 @@
         text-decoration: none;
         color: black;
     }
+
+    section{
+        div{
+            width: 700px;
+        }
+    }

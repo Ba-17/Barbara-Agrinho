@@ -5,7 +5,7 @@ box-sizing: border-box;
 }
 body{
    background-image: url(campo.jpg);
-   background-size: 90% 90%;
+   background-size: 100% 100%;
 }
 
 header{

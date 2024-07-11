@@ -51,15 +51,7 @@ border-radius: 10px;
 
 
 
-/* Estilos para telas grandes (desktops) */
-@media only screen and (min-width: 1200px) {
-    /* Estilos para telas maiores que 1200px de largura */
-  }
-  
-  /* Estilos para tablets e dispositivos médios */
-  @media only screen and (max-width: 1199px) and (min-width: 768px) {
-    /* Estilos para telas entre 768px e 1199px de largura */
-  }
+
   
   /* Estilos para dispositivos móveis (celulares) */
   @media only screen and (max-width: 767px) {

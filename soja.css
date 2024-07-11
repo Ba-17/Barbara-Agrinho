@@ -34,7 +34,7 @@
         padding: 12px;
         margin: 20px;
         width: 25%;
-  
+        position: relative;
     }
 
     div{
@@ -44,7 +44,7 @@
         margin: 20px;
         width: 700px;
         height: 500px;
-        float: right;
+        
     
     }
 

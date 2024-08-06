@@ -80,9 +80,6 @@ img {
     grid-template-columns: 70% 30%;
      }
 
-     img{
-        width: 100%;
-     }
      div{ 
         padding: 12px;
         width: 70%;
@@ -91,11 +88,3 @@ img {
      div{
         height: 500px;
      }
-
-
-
-   
-     
-     
-      
-     

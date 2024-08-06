@@ -5,7 +5,7 @@ box-sizing: border-box;
 }
 body{
    background-image: url(campo.jpg);
-   background-size: 100% 100%;
+   background-size: 100%;
 }
 
 header{
@@ -21,8 +21,6 @@ section{
     margin: 4%;
     margin-top: 0;
     border-radius: 0 0 55px 55px;
-    display: grid;
-    grid-template-columns: 33% 33% 33%;
     padding-top: 27px; 
 }
 
@@ -53,8 +51,13 @@ border-radius: 10px;
 
 
 
-@media screen and (min-width:1024px){
-    header{
-        background-color: red;
-    }
+@media screen and (min-width:728px){
+    body{
+        background-size: 100% 100%;
+     }
+
+     section{
+        display: grid;
+    grid-template-columns: 33% 33% 33%;
+     }
 }

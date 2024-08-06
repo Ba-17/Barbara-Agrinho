@@ -90,8 +90,13 @@ img {
        
      }
      div{
-        height: 300px;
-        width: 62%;
-        margin-left: 3%;
+        padding: 12px;
+        width: 145%;
+        height: 88%;
+        margin-left: -60%;
      }
     }
+
+    height: 300px;
+    width: 62%;
+    margin-left: 3%;

@@ -44,8 +44,13 @@ div1 {
 div {
     background-color: white;
     border-radius: 20px;
+<<<<<<< HEAD
+    padding: 7px;;
+    margin: 15px;
+=======
     padding: 12px;
     margin: 15px;
+>>>>>>> e4b9781fb2e22b95d615ef6c1001328e2b648a96
     height: 219px;
     width: 205px;
 

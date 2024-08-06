@@ -23,7 +23,7 @@
         border-radius: 0 0 55px 55px;
         display: grid;
         padding-top: 27px; 
-        grid-template-columns: 50% 50%;
+        grid-template-columns: 70% 30%;
 
     }
     
@@ -32,7 +32,7 @@
         border-radius: 20px;
         padding: 12px;
         margin: 20px;
-        width: 50%;
+        width: 70%;
         height: 50%;
 
     }
@@ -42,7 +42,6 @@
         border-radius: 20px;
         padding: 12px;
         margin: 20px;
-        width: 700px;
         height: 500px;
     }
 
@@ -60,4 +59,5 @@
 
     .video{
         border-radius: 20px;
+        margin-left: 15%;
     }

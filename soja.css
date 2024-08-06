@@ -25,7 +25,7 @@ section {
     border-radius: 0 0 55px 55px;
     display: grid;
     padding-top: 27px;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 70% 30%;
 
 }
 
@@ -35,8 +35,9 @@ div1 {
     border-radius: 20px;
     padding: 12px;
     margin: 20px;
-    width: 50%;
+    width: 70%;
     height: 50%;
+    margin-left: 15%;
 
 }
 
@@ -64,4 +65,4 @@ img {
 
 .video {
     border-radius: 20px;
-}
+    width: 100%;

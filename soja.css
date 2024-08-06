@@ -37,7 +37,7 @@ div1 {
     margin: 20px;
     width: 66%;
     height: 38%;
-    margin-left: 25%;
+    margin-left: 28%;
 
 }
 
@@ -88,5 +88,6 @@ img {
      }
      div{
         height: 500px;
+        margin-left: 25%;
      }
     }

@@ -51,7 +51,7 @@ border-radius: 10px;
 
 
 
-@media screen and (min-width:728px){
+@media screen and (min-width:1024px){
     body{
         background-size: 100% 100%;
      }

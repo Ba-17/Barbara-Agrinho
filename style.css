@@ -33,7 +33,10 @@ div{
 }
 
 div2{
-
+    background-color: white;
+    border-radius: 20px;
+    padding: 7px;;
+    margin: 20px;
 
 }
 img{

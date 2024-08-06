@@ -34,6 +34,7 @@
         margin: 20px;
         width: 70%;
         height: 50%;
+        margin-left: 15%;
 
     }
 
@@ -59,5 +60,5 @@
 
     .video{
         border-radius: 20px;
-        margin-left: 15%;
+        width: 100%;
     }
